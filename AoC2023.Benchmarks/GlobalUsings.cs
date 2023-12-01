@@ -5,3 +5,4 @@ global using System.Threading.Tasks;
 global using BenchmarkDotNet;
 global using BenchmarkDotNet.Diagnosers;
 global using BenchmarkDotNet.Running;
+global using BenchmarkDotNet.Attributes;

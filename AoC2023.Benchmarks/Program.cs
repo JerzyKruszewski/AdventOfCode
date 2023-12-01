@@ -4,6 +4,7 @@ internal sealed class Program
 {
     private static void Main()
     {
-        Console.WriteLine("Hello, World!");
+        BenchmarkRunner.Run<Day1Benchmarks>();
+        Console.ReadLine();
     }
 }
