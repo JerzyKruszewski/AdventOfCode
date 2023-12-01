@@ -5,9 +5,11 @@ My take on AdventOfCode challenges
 
 ## System parameters
 
+```
 CPU:    AMD Ryzen 9 7950X, 4.5 GHz, 64 MB
 RAM:    DDR5, 64 GB, 5600MHz, CL40
 OS:     WINDOWS 10 HOME 64-bit
+```
 
 ## Day 1
 
