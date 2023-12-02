@@ -21,3 +21,16 @@ OS:     WINDOWS 10 HOME 64-bit
 | FirstChallengeActualData  |  18,154.98 ns | 296.494 ns | 277.341 ns |   4.6082 |  1.0071 |   77152 B |
 | SecondChallengeTestData   |   1,083.55 ns |   1.573 ns |   1.395 ns |   0.4387 |       - |    7368 B |
 | SecondChallengeActualData | 271,931.32 ns | 419.029 ns | 371.459 ns | 109.8633 | 27.3438 | 1845219 B |
+
+***
+
+### Day 2
+
+| Method                    | Mean      | Error     | StdDev    | Gen0    | Gen1   | Allocated |
+|-------------------------- |----------:|----------:|----------:|--------:|-------:|----------:|
+| FirstChallengeTestData    |  1.981 us | 0.0257 us | 0.0215 us |  0.4730 |      - |   7.75 KB |
+| FirstChallengeActualData  | 53.934 us | 0.3408 us | 0.3021 us | 12.5732 | 1.0376 | 205.62 KB |
+| SecondChallengeTestData   |  2.250 us | 0.0138 us | 0.0129 us |  0.5226 |      - |   8.59 KB |
+| SecondChallengeActualData | 75.651 us | 1.2597 us | 1.1783 us | 15.9912 | 1.3428 | 262.59 KB |
+
+***
